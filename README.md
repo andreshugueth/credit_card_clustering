@@ -1,4 +1,4 @@
-# Customer segmentation model based on credit behaviour
+# Customer segmentation model based on credit behavior
 
 ## Description :speech_balloon:
 
