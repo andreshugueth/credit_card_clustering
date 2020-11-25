@@ -57,6 +57,4 @@ We have written an **article** in two versions highlighting the main research fi
 
 ## Authors :black_nib:
 * **Andrés Hugueth** [Portfolio](https://andreshugueth.me/), [Github](https://github.com/andreshugueth), [LinkdIn](https://www.linkedin.com/in/andreshugueth/)
- 
-​
 * **Carlos Barros** [Portfolio](https://carlosbarros.netlify.app/), [Github](https://github.com/cbarros7), [LinkdIn](https://www.linkedin.com/in/carlosbarros7/)
