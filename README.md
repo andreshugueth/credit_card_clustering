@@ -24,9 +24,9 @@ The tools used to develop the project were:
 
 The data source was taken from the Kaggle challenge called [Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata), where you can find the summary of payments behaviors of 9000 credit card active owners during the last six months.
 
-### Analysis 
+### Analysis
 
-#### Balance 
+#### Balance
 
 The **Balance** variable presented a mean of **1601.22 USD** with a standard deviation of **2095.57 USD**. Regarding its distribution, it's clear that it has a bias to the right, as is to be expected when working with financial data with a high number of atypical values.
 
@@ -51,8 +51,8 @@ When it comes to the **CREDIT_LIMIT** variable, it has a mean of **4522.09 USD**
 ## Annotations :loudspeaker:
 
 
-We have written an **article** in two versions highlighting the main research findings: 
-* [English](link)
+We have written an **article** in two versions highlighting the main research findings:
+* [English](https://medium.com/@andreshugueth/customer-segmentation-model-based-on-credit-cards-behavior-bfcb686734ae)
 * [Spanish](https://www.linkedin.com/pulse/modelo-de-segmentaci%C3%B3n-clientes-con-tarjetas-cr%C3%A9dito-barros-amador/)
 
 ## Authors :black_nib:
